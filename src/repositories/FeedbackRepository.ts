@@ -1,7 +1,7 @@
 export interface FeedbackCreateDatabase{
     type: string;
     comment: string;
-    screenshot: string;
+    screenshot?: string;
 }
 
 export interface FeedbackRepository {
