@@ -70,4 +70,4 @@ Você pode visualizar o layout do projeto através do link abaixo:
 Lembrando que você precisa ter uma conta no [Figma](http://figma.com/).
 
 
-Made with 💜 by **[@Serejo](https://www.linkedin.com/in/erick-serejo-30984b101/)**.
+Made with 💜 by **[@Serejo](https://www.linkedin.com/in/erick-serejo-30984b101/)** and Rocketseat.
