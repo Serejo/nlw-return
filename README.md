@@ -40,7 +40,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Clone o repositório e acesse a pasta.
 
 ```bash
-$ git clone https://github.com/Serejo/web-nwl-return
+$ git clone https://github.com/Serejo/nwl-return
 $ cd nlw8
 ```
 
